@@ -7,7 +7,7 @@ EVALUATION_CRITERIA = {
     "relevance": "Is the prompt directly related to the intended task?",
     "completeness": "Does the prompt provide all necessary context for the task?",
     "neutrality": "Is the prompt free from bias or leading language?",
-    "efficiency": "Is the prompt concise and free of unnecessary verbosity?",
+    "efficiency": "Is the prompt concise and free off unnecessary verbosity?",
 }
 
 class PromptEvaluator:
